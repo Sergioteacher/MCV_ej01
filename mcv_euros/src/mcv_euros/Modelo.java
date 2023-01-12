@@ -1,4 +1,5 @@
 package mcv_euros;
+//Una edición en linea...
 
 public class Modelo {
 	 private Double moneda;
