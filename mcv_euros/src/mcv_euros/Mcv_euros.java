@@ -7,7 +7,10 @@ package mcv_euros;
 //import javax.swing.UIManager;
 //import javax.swing.UnsupportedLookAndFeelException;
 
-
+/**
+ * @author Sergioteacher
+ *
+ */
 
 public class Mcv_euros {
 
